@@ -12,7 +12,9 @@ The following example files from Quartermaster Harbor, Puget Sound are included 
 |---|---|
 | `CTD_Data_QMH.xlsx` | Example input — one sheet per station, imported from `.cnv` |
 | `CTD_Graphs_QMH.pdf` | Example output — all six depth profile graphs |
- 
+| `ctdinformation.doc` | `.cnv` to Excel import instructions provided by University of Washington Tacoma |
+
+> `ctdinformation.doc` was authored by the University of Washington Tacoma and is included here for reference only.
 ---
  
 ## Output
