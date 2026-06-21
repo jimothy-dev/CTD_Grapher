@@ -46,11 +46,3 @@ A Google Colab notebook for plotting multi-station CTD cast profiles from SeaBir
 ## Output
 
 A single PDF with one graph per variable. Each graph shows all stations overlaid, making cross-station comparison straightforward.
-
-## Notebook Error Note
-
-If you see the following warning when viewing the notebook on GitHub:
-
-> *Invalid Notebook: the 'state' key is missing from 'metadata.widgets'*
-
-This is a display rendering issue with GitHub's notebook viewer and does **not** affect functionality. The notebook runs correctly in Google Colab.
